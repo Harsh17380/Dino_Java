@@ -161,7 +161,6 @@ public class GameScreen extends JPanel implements Runnable, KeyListener {
 
 	@Override
 	public void keyTyped(KeyEvent e) {
-		// TODO Auto-generated method stub
 
 	}
 
